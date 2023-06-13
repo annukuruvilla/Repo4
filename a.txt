@@ -1,3 +1,4 @@
-functionB();
+functionB(main);
 functionC();
 functionD();
+functionE();
