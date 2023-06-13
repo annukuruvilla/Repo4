@@ -1,1 +1,1 @@
-functionB();
+functionB(main);
