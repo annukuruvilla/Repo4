@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 functionB();
 functionC();
-=======
-functionB(main);
->>>>>>> featureB
